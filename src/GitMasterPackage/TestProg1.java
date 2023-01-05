@@ -7,6 +7,7 @@ public class TestProg1 {
 
 		
 		System.out.println("This is from Indian Guy");
+		System.out.println("This is from US Guy");
 	}
 
 }
